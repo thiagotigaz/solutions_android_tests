@@ -1,0 +1,8 @@
+INDEX VERSION 1.126+/Users/thiago/Documents/workspace_coursera/.metadata/.plugins/org.eclipse.jdt.core
+3779669606.index
+4011849878.index
+4199258030.index
+3367578413.index
+1178846111.index
+2729954294.index
+1176246935.index
